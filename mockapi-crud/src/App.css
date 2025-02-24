@@ -1,0 +1,7 @@
+html, body{
+  height: 5px;
+  font-family: serif;
+  border: black;
+  margin: 10%;
+  text-align: center;
+}
